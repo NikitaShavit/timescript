@@ -1,7 +1,7 @@
 {
   "name": "@nikitasd/timescript",
   "type": "module",
-  "version": "1.0.2",
+  "version": "1.0.21",
   "main": "./dist/index.js",
   "scripts": {
     "dev": "tsx watch ./src/index.ts",
