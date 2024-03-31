@@ -8,6 +8,7 @@
         "ecmaVersion": "latest",
         "sourceType": "module"
     },
+    "ignorePatterns": ["**/*.test.ts","**/*.spec.ts"],
     "rules": {
     }
 }
