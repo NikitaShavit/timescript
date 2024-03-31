@@ -9,6 +9,10 @@
     "test": "vitest",
     "coverage": "vitest run --coverage"
   },
+  "repository": {
+    "type": "git",
+    "url": "<GITHUB-REPO-URL>"
+},
   "keywords": [],
   "author": "",
   "license": "ISC",
